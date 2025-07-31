@@ -60,7 +60,10 @@ weather-app/
 ├── index.html
 ├── package.json
 └── vite.config.js
-🖼️ Giao diện
+### 📸 Giao diện ứng dụng
+
+![Weather App Screenshot](https://raw.githubusercontent.com/sjsjsmsmsj/WEATHERAPP/main/hi.png)
+
 
 💡 Gợi ý cải tiến thêm
 Tự động lấy vị trí người dùng (geolocation) và hiển thị thời tiết hiện tại
